@@ -1,0 +1,12 @@
+{
+  "name": "server-docker-pucpr",
+  "version": "0.0.1",
+  "description": "Subindo um server em docker para aula da pucpr",
+  "main": "server.js",
+  "scripts": {
+      "start": "node server.js"
+  },
+  "dependencies": {
+      "node-static": "^0.7.11"
+  }
+}
